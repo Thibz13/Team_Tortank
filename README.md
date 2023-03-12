@@ -1,7 +1,7 @@
 # Salut à tous les amis, on se retrouve ojd pour une nouvelle vidéo et cette fois, on va parler d' Hotel !!!!
 liste instructions : 
 
-  - cloner le dépot et se placer dans le dossier puis executer les commandes suivantes :
+  - cloner le dépot et se placer dans le dossier TEeam_Tortank puis executer les commandes suivantes :
   - docker build -t tortank_gradio . 
   - docker run -it tortank_gradio
   - cd apps
