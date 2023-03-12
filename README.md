@@ -9,4 +9,4 @@ liste instructions :
   - python3 my_gradio_app.py
   - l'output de ce dernier fichier va générer un global link a cliquer pour accéder a l'app.
   
-  Sur l'app, il se trouve 4 fichier qui corresponden au fichier test.csv avec 10,100 1000, et toutes les lignes;
+  Sur l'app, il se trouve 4 fichier qui corresponden au fichier test.csv avec 10,100 1000, et toutes les lignes.
