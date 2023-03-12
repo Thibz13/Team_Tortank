@@ -1,4 +1,4 @@
-# Salut a tous les amis, on se retrouve ojd pour une nouvelle vidéo et cette fois, on va parler d' Hotel !!!!
+# Salut à tous les amis, on se retrouve ojd pour une nouvelle vidéo et cette fois, on va parler d' Hotel !!!!
 liste instructions : 
   - cloner le dépot
   - executer la commande docker build . 
